@@ -10,11 +10,9 @@
 <title>UNIFAA PÓS-GRADUAÇÃO 2023</title>
 <link href="https://fonts.googleapis.com/css?family=Arimo:400&display=swap&subset=cyrillic" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Saira:900&display=swap&subset=cyrillic" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Saira:600&display=swap&subset=cyrillic" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Saira:900i&display=swap&subset=cyrillic" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Saira:700i&display=swap&subset=cyrillic" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Saira:700&display=swap&subset=cyrillic" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Arimo:700&display=swap&subset=cyrillic" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Saira:700i&display=swap&subset=cyrillic" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Saira:400&display=swap&subset=cyrillic" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Saira:800&display=swap&subset=cyrillic" rel="stylesheet">
 <!--[if mso]>
@@ -129,7 +127,7 @@ img {
             width:auto !important;
         }
 
-        .card-90024257 {padding-top:16px !important; padding-left:0px !important;}.card-50744468 {padding-top:16px !important; padding-left:0px !important;}.card-19092195 {padding-top:16px !important; padding-left:0px !important;}.card-71374399 {padding-top:16px !important; padding-left:0px !important;}
+        .card-35689770 {padding-top:16px !important; padding-left:0px !important;}.card-38687026 {padding-top:16px !important; padding-left:0px !important;}.card-62253676 {padding-top:16px !important; padding-left:0px !important;}.card-44132938 {padding-top:16px !important; padding-left:0px !important;}
          .left-5-1853 {padding-left:20px !important;} .left-5-1855 {padding-left:0px !important;} .right-5-1855 {padding-right:0px !important;} .left-5-1926 {padding-left:20px !important;} .right-5-1926 {padding-right:10px !important;} .top-5-1864 {height:20px !important;} .bottom-5-1864 {height:20px !important;} .left-5-1864 {padding-left:20px !important;} .right-5-1864 {padding-right:20px !important;} .top-5-1865 {height:0px !important;} .bottom-5-1865 {height:0px !important;} .top-5-1866 {height:10px !important;} .bottom-5-1866 {height:0px !important;} .left-5-1866 {padding-left:20px !important;} .right-5-1866 {padding-right:20px !important;} .top-5-1867 {height:0px !important;} .bottom-5-1867 {height:0px !important;} .left-5-1867 {padding-left:0px !important;} .right-5-1867 {padding-right:0px !important;} .top-5-1870 {height:0px !important;} .top-5-1876 {height:10px !important;} .bottom-5-1876 {height:0px !important;} .top-5-1884 {height:0px !important;} .bottom-5-1884 {height:20px !important;} .top-5-1900 {height:10px !important;}
 
         .center-on-narrow {
@@ -221,7 +219,7 @@ img {
 <table align="center" cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td>
-<img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/posgraduacao2023/semiepresencial/emkt6/images/uv6yoP6GiAtBqFQr7cYbIGMSscADk7.png" width="108" alt="Logo UNIFAA" border="0" style="max-width:108px; height: auto; display: block;">
+<img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/posgraduacao2023/semiepresencial/emkt6/images/UcPNSI5iSjtfWRMHo6upYHr2nUoeVV.png" width="108" alt="Logo UNIFAA" border="0" style="max-width:108px; height: auto; display: block;">
 </td>
 </tr>
 </table>
@@ -258,7 +256,7 @@ img {
 <table align="left" cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td class="left-5-1926 right-5-1926" style="padding-left:48px;">
-<img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/posgraduacao2023/semiepresencial/emkt6/images/t9Gvrg3iz8uHOA0FZx3C1AgByrEdWJ.png" width="215" border="0" style="max-width:215px; height: auto; display: block;">
+<img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/posgraduacao2023/semiepresencial/emkt6/images/k1WWjhag8KAbZNIzGpA8n0D1GevsI1.png" width="215" border="0" style="max-width:215px; height: auto; display: block;">
 </td>
 </tr>
 </table>
@@ -285,7 +283,7 @@ img {
 </tr>
 </table>
 </td>
-<td class="stack-column-center card-90024257" width="50%">
+<td class="stack-column-center card-35689770" width="50%">
 <table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td>
@@ -298,7 +296,7 @@ img {
 <table align="center" cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td>
-<img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/posgraduacao2023/semiepresencial/emkt6/images/AfVYx0aKgJGfVCx4hx3H2sBNFZZ18D.png" width="275" alt="Imagem Medicina" border="0" style="width:100%; height: auto; display: block; min-height: 283px;">
+<img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/posgraduacao2023/semiepresencial/emkt6/images/YbokIfGu9auDRWSju9zo5UqYlGt8n0.png" width="275" alt="Imagem Medicina" border="0" style="width:100%; height: auto; display: block;">
 </td>
 </tr>
 </table>
@@ -329,10 +327,10 @@ img {
 <td>
 <table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
 <tr>
-<td width="550" background="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/posgraduacao2023/semiepresencial/emkt6/images/ePecrTpQ9K2RiFfJZpBgRxESo9YVqN.png" class="ePecrTpQ9K2RiFfJZpBgRxESo9YVqN invert-bg" style="background-repeat:no-repeat !important; background-position: center center !important; background-size: cover !important; border-collapse:separate !important;">
+<td width="550" background="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/posgraduacao2023/semiepresencial/emkt6/images/m0Ae0a8hgBVMPMK3IY7oFu6rJqfaQv.png" class="m0Ae0a8hgBVMPMK3IY7oFu6rJqfaQv invert-bg" style="background-repeat:no-repeat !important; background-position: center center !important; background-size: cover !important; border-collapse:separate !important;">
 <!--[if gte mso 9]>
                 <v:image xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style=" border: 0;display: inline-block; width: 550px; height:359px;"
-                src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/posgraduacao2023/semiepresencial/emkt6/images/ePecrTpQ9K2RiFfJZpBgRxESo9YVqN.png"
+                src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/posgraduacao2023/semiepresencial/emkt6/images/m0Ae0a8hgBVMPMK3IY7oFu6rJqfaQv.png"
                 />
                 <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style=" border: 0;display: inline-block;position: absolute; width: 550px; height:359px;">
                 <v:fill opacity="0%" color="#000" />
@@ -417,7 +415,7 @@ img {
 </tr>
 </table>
 </td>
-<td class="stack-column-center card-50744468" width="50%">
+<td class="stack-column-center card-38687026" width="50%">
 <table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td>
@@ -431,7 +429,7 @@ img {
 <table align="center" cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td>
-<img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/posgraduacao2023/semiepresencial/emkt6/images/T9tQ6OIdHudvYuce1pSVdOzhPGsSxP.png" width="275" alt="Imagem Medicina" border="0" style="width:100%; height: auto; display: block;">
+<img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/posgraduacao2023/semiepresencial/emkt6/images/OHW5Xe2GL7qKLiKgH5mPUwADpkbWB8.png" width="275" alt="Imagem Medicina" border="0" style="width:100%; height: auto; display: block;">
 </td>
 </tr>
 </table>
@@ -520,7 +518,7 @@ img {
 <table align="center" cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td>
-<img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/posgraduacao2023/semiepresencial/emkt6/images/Td63NPOb0ZosMXWrK8rvRlZXI2wL1n.png" width="550" border="0" style="width: 100%; height: auto; display: block;">
+<img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/posgraduacao2023/semiepresencial/emkt6/images/PRKseYX0pKPhU6Ie4ow0Po5JWcrDqt.png" width="550" border="0" style=" width: 100%; height: auto; display: block;">
 </td>
 </tr>
 </table>
@@ -567,7 +565,7 @@ img {
 <table align="center" cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td>
-<img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/posgraduacao2023/semiepresencial/emkt6/images/OKShOh0uNUejJ9aJQA6abbIxKfBN1s.png" width="108" alt="logo UNIFAA" border="0" style="max-width:108px; height: auto; display: block;">
+<img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/posgraduacao2023/semiepresencial/emkt6/images/wfEXxQA7K2cEWGRgCZpzDbpBxQMZD7.png" width="108" alt="logo UNIFAA" border="0" style="max-width:108px; height: auto; display: block;">
 </td>
 </tr>
 </table>
@@ -581,7 +579,7 @@ img {
 </tr>
 </table>
 </td>
-<td class="stack-column-center card-19092195" width="33%">
+<td class="stack-column-center card-62253676" width="33%">
 <table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td>
@@ -624,7 +622,7 @@ img {
 </tr>
 </table>
 </td>
-<td class="desktop stack-column-center card-19092195" width="34%">
+<td class="desktop stack-column-center card-62253676" width="34%">
 <table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td>
@@ -714,7 +712,7 @@ img {
 </tr>
 </table>
 </td>
-<td class="stack-column-center card-71374399" width="33%">
+<td class="stack-column-center card-44132938" width="33%">
 <table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td>
@@ -751,7 +749,7 @@ img {
 <table align="center" cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td>
-<img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/posgraduacao2023/semiepresencial/emkt6/images/ZG09XdXW63y7rgbipZLB4YvDyGnilq.png" width="19" border="0" style="max-width:19px; height:auto;display:block;">
+<img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/posgraduacao2023/semiepresencial/emkt6/images/1WPobagfqcDGbXeOoZFZk9INktHIYk.png" width="19" border="0" style="max-width:19px; height:auto;display:block;">
 </td>
 </tr>
 </table>
@@ -832,7 +830,7 @@ img {
 </tr>
 </table>
 </td>
-<td class="stack-column-center card-71374399" width="33%">
+<td class="stack-column-center card-44132938" width="33%">
 <table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td>
@@ -856,7 +854,7 @@ img {
 <table align="center" cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td>
-<a target="_blank" href="https://twitter.com/unifaavalenca"><img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/posgraduacao2023/semiepresencial/emkt6/images/mOKYGxX8F0Q33iWsOY4MYVnCDgiBpw.png" width="25" border="0" style="max-width:25px; height:auto;display:block;"></a>
+<a target="_blank" href="https://twitter.com/unifaavalenca"><img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/posgraduacao2023/semiepresencial/emkt6/images/Bd1MsFCLljl1SXbQlnyIhncpRMghRW.png" width="25" border="0" style="max-width:25px; height:auto;display:block;"></a>
 </td>
 </tr>
 </table>
@@ -878,7 +876,7 @@ img {
 <table align="left" cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td>
-<img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/posgraduacao2023/semiepresencial/emkt6/images/UUeg30rJMqJD1YGrAclAzouoSCBbtL.png" width="23.996997833251953" border="0" style="max-width:23.996997833251953px; height:auto;display:block;">
+<img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/posgraduacao2023/semiepresencial/emkt6/images/kyYVaPh5gR6atNC85DssiwRJEytILw.png" width="23.996997833251953" border="0" style="max-width:23.996997833251953px; height:auto;display:block;">
 </td>
 </tr>
 </table>
@@ -901,7 +899,7 @@ img {
 <table align="center" cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td>
-<a target="_blank" href="https://br.linkedin.com/company/unifaa"><img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/posgraduacao2023/semiepresencial/emkt6/images/Ml5dmTw9nMkFryvDZ91TLOmnq0qcF6.png" width="24" alt="linkedin" border="0" style="max-width:24px; height:auto;display:block;"></a>
+<a target="_blank" href="https://br.linkedin.com/company/unifaa"><img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/posgraduacao2023/semiepresencial/emkt6/images/WU6x22Yd4ZbWk9F0J6irVU2EDqXxZb.png" width="24" alt="linkedin" border="0" style="max-width:24px; height:auto;display:block;"></a>
 </td>
 </tr>
 </table>
@@ -917,7 +915,7 @@ img {
 <table align="center" cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td>
-<a target="_blank" href="https://pt-br.facebook.com/Unifaa.Valenca/"><img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/posgraduacao2023/semiepresencial/emkt6/images/gzas51mYNCoa0FTOsocc6YIkZNMRZa.png" width="23" alt="facebook" border="0" style="max-width:23px; height:auto;display:block;"></a>
+<a target="_blank" href="https://pt-br.facebook.com/Unifaa.Valenca/"><img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/posgraduacao2023/semiepresencial/emkt6/images/es4laYPyHCR1BawpdaNmTn6wANwXus.png" width="23" alt="facebook" border="0" style="max-width:23px; height:auto;display:block;"></a>
 </td>
 </tr>
 </table>
@@ -933,7 +931,7 @@ img {
 <table align="center" cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td>
-<a target="_blank" href="https://www.youtube.com/channel/UClR7U1GYO2L2jHDOFamMw1g"><img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/posgraduacao2023/semiepresencial/emkt6/images/sF5pWp8umTrhcePXcdSSQ5dzGGF221.png" width="23.52941131591797" alt="youtube" border="0" style="max-width:23.52941131591797px; height:auto;display:block;"></a>
+<a target="_blank" href="https://www.youtube.com/channel/UClR7U1GYO2L2jHDOFamMw1g"><img src="https://comunicacao.unifaa.edu.br/public/images-emails/2023/01/posgraduacao2023/semiepresencial/emkt6/images/NWTuFljR55KsqN2eqfB4Y4pqwa7mOH.png" width="23.52941131591797" alt="youtube" border="0" style="max-width:23.52941131591797px; height:auto;display:block;"></a>
 </td>
 </tr>
 </table>

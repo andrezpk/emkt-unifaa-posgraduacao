@@ -404,13 +404,11 @@ img {
 <table align="center" cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td>
-    <!------------ FOMULÁRIO ---------->
-    <form style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-        
-        <input id="CPFInput" maxlength="11" name="cpf" oninput="criaMascara('CPF')" placeholder="CPF" style="border-radius: 5px; border: none; margin-bottom:10px;  width: 100%; padding:5px 10px;">
-        <input id="getsenha" type="text" name="senha" placeholder="Senha" style="border-radius: 5px; border: none; margin-bottom:10px; width: 100%; padding: 5px 10px;">
-        <input type="submit" value="LOGIN" style="border: none; background-color: #00C9D2; padding: 5px 10px; display: inline-block; width: 100px; color: #ffffff;line-height:141%;font-family:Saira, Helvetica, Arial, sans-serif; font-size:15px;text-align:center;font-weight: 700; border-radius: 5px;">
-    </form>
+    <div style="width: 100%; display: flex; flex-direction: column; align-items: center;">
+    <p style="width: 100%; background-color: #ffffff; padding: 5px 10px; color: #ccc; border-radius: 5px; font-family:Saira, Helvetica, Arial, sans-serif; font-size:12px; margin-bottom: 0px;">CPF:<!--INSERIR TAG AQUI--></p>
+    <p style="width: 100%; background-color: #ffffff; padding: 5px 10px; color: #ccc; border-radius: 5px; font-family:Saira, Helvetica, Arial, sans-serif; font-size:12px;">SENHA:<!--INSERIR TAG AQUI--></p>
+    <a style="border: none; background-color: #00C9D2; padding: 5px 10px; display: inline-block; width: 100px; color: #ffffff;line-height:141%;font-family:Saira, Helvetica, Arial, sans-serif; font-size:15px;text-align:center;font-weight: 700; border-radius: 5px;" href="https://inscricao.unifaa.edu.br/Login/8011" target="_blank">LOGIN</a>
+    </div>
 </td>
 </tr>
 </table>
@@ -972,22 +970,7 @@ img {
 </tr>
 </table>
 </div>
-<script>
-    function criaMascara(mascaraInput) {
-      const maximoInput = document.getElementById(`${mascaraInput}Input`).maxLength;
-      let valorInput = document.getElementById(`${mascaraInput}Input`).value;
-      let valorSemPonto = document.getElementById(`${mascaraInput}Input`).value.replace(/([^0-9])+/g, "");
-      const mascaras = {
-        CPF: valorInput.replace(/[^\d]/g, "").replace(/(\d{3})(\d{3})(\d{3})(\d{2})/, "$1.$2.$3-$4"),
-        Celular: valorInput.replace(/[^\d]/g, "").replace(/^(\d{2})(\d{5})(\d{4})/, "($1) $2-$3"),
-        CEP: valorInput.replace(/[^\d]/g, "").replace(/(\d{5})(\d{3})/, "$1-$2"),
-        CNJ: valorInput.replace(/[^\d]/g, "").replace(/(\d{7})(\d{2})(\d{4})(\d{1})(\d{2})(\d{4})/, "$1-$2.$3.$4.$5.$6"),
-      };
-    
-      valorInput.length === maximoInput ? document.getElementById(`${mascaraInput}Input`).value = mascaras[mascaraInput]
-     : document.getElementById(`${mascaraInput}Input`).value = valorSemPonto;
-    };
-    </script>
+
 </body>
 
 </html>
